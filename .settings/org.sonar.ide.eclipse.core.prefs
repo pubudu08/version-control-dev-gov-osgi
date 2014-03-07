@@ -1,0 +1,6 @@
+analyseLocally=false
+eclipse.preferences.version=1
+extraProperties=
+projectKey=org.wso2.carbon.utility.versioncontrol\:VersionControl
+serverUrl=http\://localhost\:9000
+version=2
